@@ -5,6 +5,7 @@ counter = 0
     yield array[counter]
      counter += 1
    end
+   array
 end
 
 # call your method here!
